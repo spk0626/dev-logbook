@@ -53,3 +53,15 @@ Each entry should include:
 - resume/interview bullet
 
 Keep entries clear, short, and useful for future debugging.
+
+## Writing Style
+
+- Write like a developer leaving notes for their future self.
+- Use plain, direct language. Prefer exact errors, commands, paths, files, routes, and observed behavior.
+- Avoid AI-sounding filler such as "seamlessly", "robust", "leveraged", "comprehensive", "streamlined", "mission-critical", and vague praise.
+- Do not inflate impact. If there is no measured number, say the real impact plainly.
+- Keep technical sections practical, not polished for marketing.
+- Only the `Resume / Interview Bullet` section should sound resume-ready.
+- Keep paragraphs short. Use bullets for symptoms, causes, fixes, and checks when that is easier to scan.
+- Preserve uncertainty. If the root cause was suspected but not fully proven, say that.
+- Do not rewrite messy real debugging into a fake perfect story; keep the useful trail of what was tried.

@@ -9,6 +9,8 @@ status: final
 
 # Short Clear Title
 
+Write this like a real developer note: plain, specific, and useful. Avoid AI filler or inflated claims.
+
 ## Problem
 
 What went wrong or what was done.
